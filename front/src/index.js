@@ -1,3 +1,6 @@
+/*
+I think the button and font style can be styled more so that the content of the website match with the style more. And more instructions once you log in can be helpful!
+*/
 import React from "react";
 import ReactDOM from "react-dom";
 import "./components/styles/index.css";
