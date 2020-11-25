@@ -1,3 +1,6 @@
+/*
+It's a very cute Pokemon website! I saw you use pokemon favicon and images through out the website. I like the site a lot! 
+*/
 const express = require("express");
 const path = require("path");
 const cookieParser = require("cookie-parser");
